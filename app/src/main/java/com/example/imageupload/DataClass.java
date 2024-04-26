@@ -1,5 +1,7 @@
 package com.example.imageupload;
 
+
+//This class defines the structure of data model for images.
 public class DataClass {
     private String imageURL, caption;
 

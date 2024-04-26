@@ -33,6 +33,8 @@ import com.google.firebase.storage.OnProgressListener;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
+//Allows users to select an image from their device and upload it to Firebase Storage
+
 public class UploadActivity extends AppCompatActivity {
 
     private FloatingActionButton uploadButton;

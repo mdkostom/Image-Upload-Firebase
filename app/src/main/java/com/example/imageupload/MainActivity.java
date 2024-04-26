@@ -26,6 +26,8 @@ import org.imaginativeworld.oopsnointernet.dialogs.pendulum.NoInternetDialogPend
 
 import java.util.ArrayList;
 
+
+//The main screen of this app, displaying a grid view of images fetched from Firebase Realtime Database
 public class MainActivity extends AppCompatActivity {
 
     FloatingActionButton fab;

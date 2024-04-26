@@ -29,6 +29,7 @@ import com.google.firebase.storage.StorageTask;
 
 import java.util.ArrayList;
 
+//This activity displays an enlarged view of an image when clicked
 public class EnlargedImageViewActivity extends AppCompatActivity {
 
     private String imageUrl;

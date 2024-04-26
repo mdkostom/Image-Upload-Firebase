@@ -13,6 +13,8 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 
+//Responsible for binding the data from the DataClass to the views in the grid layout of the MainActivity.
+
 public class MyAdapter extends BaseAdapter {
 
     private ArrayList<DataClass> dataList;
