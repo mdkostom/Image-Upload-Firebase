@@ -13,7 +13,7 @@ External Dependencies:
 1) oopsnointernet
 2) firebase
 
-Resoucres used:
+Resources used:
 1) Oops-No-Internet for no connection warning - https://github.com/ImaginativeShohag/Oops-No-Internet
 2) Cloud upload icons (drawable) for image uploading window
 3) Vector assets (drawable) in Android Studio for Add (+), Upload (arrow), Remove (-)
