@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "405804311492",
+    "firebase_url": "https://image-upload-ec904-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "image-upload-ec904",
+    "storage_bucket": "image-upload-ec904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405804311492:android:90211e03c48c3aced8ba91",
+        "android_client_info": {
+          "package_name": "com.example.imageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosRl8fWLQfdoCL1_Er0CJ-iHbM4WD5zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
